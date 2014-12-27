@@ -1,5 +1,6 @@
 #firstdiv{
 	background-color: green
+
 }
 
 #seconddiv{
@@ -11,4 +12,15 @@
 }
 #fourthdiv{
 	background-color: purple
+}
+h1{
+	font-color: black;
+	font-size: 2em;
+	text-align:center;
+	width: 30%;
+	margin: 0 auto;
+}
+td{
+	
+	border: 5px solid black;
 }
